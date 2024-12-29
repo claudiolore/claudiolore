@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I spent time in Liverpool improving my English while taking an intensive language course, which helped me develop both linguistic and intercultural communication skills!
 
 ### 🎓 Learning Journey
-- Completed Java Developer course at Generation Italy (2023)
-- Completed Java and Spring Developer course at Contrader (2024)
-- Currently exploring C# development
+- Completed 1000hrs Java Developer course beetwen Generation Italy (2023)
+- Completed a 4-month Java and Spring Developer internship at Contrader (2024).
+- Currently working as a C# Developer at BeSmart SRL.
